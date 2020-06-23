@@ -1,8 +1,8 @@
 # Number Guesser
 <strong> Code used: JS, HTML, and CSS. </strong>
 
-Welcome to the <a href="https://gamedevdiana.github.io/NumberGuesser/">Number Guesser</a> where it is you vs. the computer! 
-Click <a href="https://gamedevdiana.github.io/NumberGuesser/">here</a> to play!
+Welcome to the <a href="https://gamedevdiana.github.io/Number-Guesser/" target="_blank">Number Guesser</a> where it is you vs. the computer! 
+Click <a href="https://gamedevdiana.github.io/Number-Guesser/" target="_blank">here</a> to play!
 
 As seen on the site, these are the steps to play the game:
 - Step One: Input a number between 0 and 9
